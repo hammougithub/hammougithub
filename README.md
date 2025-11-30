@@ -1,6 +1,5 @@
 - 👋 Hi, I’m ACHOUR mohammed, I am a computer engineer, I work in windows, linux and android operating systems.
-- 👀 I’m interested in  delphi programing , database development with  Firbird and Oracle.
-- 🌱 I’m currently learning Reverse engineering. 
+-  I program in Delphi and C# for Firebird SQLServer and Oracle databases.
 - 💞️ I’m looking to collaborate on a new projects.
 - 📫 To reach me  ---> achourhammed@gmail.com.
 
